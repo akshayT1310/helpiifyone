@@ -107,10 +107,7 @@ function App() {
       <div className="topbar">
         <div className="container topbar-inner">
           <span>Trusted home services at your doorstep</span>
-          <a href="tel:+919999999999">
-            <Phone size={12} />
-            +91 99999 99999
-          </a>
+          
         </div>
       </div>
 
@@ -121,10 +118,7 @@ function App() {
               <span className="mark-light">help</span>
               <span className="mark-accent">iify</span>
             </div>
-            <div className="brand-wordmark" aria-label="Helpiify home services">
-              <strong>helpiify</strong>
-              <small>HOME SERVICES</small>
-            </div>
+            
           </a>
 
           <nav className={menuOpen ? "nav-links open" : "nav-links"}>
@@ -569,10 +563,7 @@ function App() {
                 Indore, Madhya Pradesh
               </div>
 
-              <a className="contact-line" href="tel:+919999999999">
-                <Phone size={17} />
-                +91 99999 99999
-              </a>
+              
             </div>
 
             <div className="contact-box">
@@ -594,10 +585,7 @@ function App() {
                 <span className="mark-light">help</span>
                 <span className="mark-accent">iify</span>
               </div>
-              <div className="brand-wordmark" aria-label="Helpiify home services">
-                <strong>helpiify</strong>
-                <small>HOME SERVICES</small>
-              </div>
+              
             </div>
 
             <p>
@@ -623,7 +611,7 @@ function App() {
             <h4>Support</h4>
             <a href="#contact">Contact</a>
             <a href="mailto:hello@helpiify.com">Email us</a>
-            <a href="tel:+919999999999">Call us</a>
+           
           </div>
         </div>
 
